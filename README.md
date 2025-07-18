@@ -1,4 +1,4 @@
 # Myfirstrepo
 This is my first repository
 <br>
-Author-Arushi Katiyat
+Author-Arushi Katiyar
